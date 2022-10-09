@@ -1,0 +1,4 @@
+Commands:...      Description:...
+departure_earlier_current - Вылет до текущего момента времени
+arrival_earlier_departure - Сегменты с датой прилёта раньше даты вылета
+ground_time_exceeds_two_hours - Общее время, проведённое на земле превышает два часа
